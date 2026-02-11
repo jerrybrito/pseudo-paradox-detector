@@ -1,0 +1,2 @@
+# Requires: proto-deferral
+# (Not available on PyPI)
